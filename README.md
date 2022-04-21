@@ -1,4 +1,4 @@
-File extensions whose attributes are changed to read-only:
-.SLDASM
-.SLDDRW
+File extensions whose attributes are changed to read-only:  
+.SLDASM  
+.SLDDRW  
 .SLDPRT
